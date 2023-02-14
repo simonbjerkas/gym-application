@@ -12,7 +12,7 @@ module.exports = {
         "primary-300": "#ffa6a3",
         "primary-500": "#ff6b66",
         "secondary-400": "#ffcd58",
-        "secondary-400": "#ffc132",
+        "secondary-500": "#ffc132",
       },
       backgroundImage: (theme) => ({
         "gradient-yellowred":
